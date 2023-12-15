@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-rest-api",
+  "version": "1.0.0",
+  "description": "ecommerce api using node, express, and postgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitairman/ecommerce-rest-api.git"
+  },
+  "author": "Aaron Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitairman/ecommerce-rest-api/issues"
+  },
+  "homepage": "https://github.com/gitairman/ecommerce-rest-api#readme"
+}
